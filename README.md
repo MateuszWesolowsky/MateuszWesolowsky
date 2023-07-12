@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mateusz Wesołowski</h1>
 <h3 align="center">A passionate frontend developer from Poland</h3>
-<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/scrolling-up-green-system-coding-nxt2vg8bl6e4wbo1.gif"
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mateuszwesolowsky&label=Profile%20views&color=0e75b6&style=flat" alt="mateuszwesolowsky" /> </p>
 
 - 🔭 I’m currently working on [League of legends champions app](https://github.com/MateuszWesolowsky/LeagueOfLegendsCards-App)

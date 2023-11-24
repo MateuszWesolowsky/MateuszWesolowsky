@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mateuszwesolowsky&label=Profile%20views&color=0e75b6&style=flat" alt="mateuszwesolowsky" /> </p>
 
-- 🌱 I’m currently learning **React, Typescript**
+- 🌱 I’m currently learning **React, Next.JS, Typescript**
 
 - 📫 How to reach me **m.wesolowski.92@gmail.com**
 
